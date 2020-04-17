@@ -1,8 +1,8 @@
 # Site settings
 title: BLKB Tech
 description: Legal and security services.
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://blkb-tech.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://www.blkb.inf.br" # the base hostname & protocol for your site
 
 # User settings
 username: BLKB Tech
@@ -17,4 +17,4 @@ gplus_username:  lorem_ipsum
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'src' , 'node_modules', '.jekyll-cache']
