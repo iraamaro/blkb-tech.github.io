@@ -1,6 +1,6 @@
 # Particle Jekyll Theme
 
-[![License](https://img.shields.io/github/license/iramaro/blkb-tech.github.io)
+![License](https://img.shields.io/github/license/iramaro/blkb-tech.github.io)
 
 ![](./particle.jpg)
 
