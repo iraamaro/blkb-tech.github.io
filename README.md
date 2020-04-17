@@ -1,5 +1,7 @@
 # Particle Jekyll Theme
 
+[![License](https://img.shields.io/github/license/iramaro/blkb-tech.github.io)
+
 ![](./particle.jpg)
 
 This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
